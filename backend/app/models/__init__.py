@@ -5,6 +5,6 @@ from .comment import Comment
 from .crew_member import CrewMember
 
 __all__ = [
-    "DocumentCategory", "TicketStatus", "TicketPriority", "CrewStation"
+    "DocumentCategory", "TicketStatus", "TicketPriority", "CrewStation",
     "Document", "Ticket", "Comment", "CrewMember",
 ]

@@ -2,7 +2,7 @@ from enum import Enum
 
 class DocumentCategory(str, Enum):
     RECIPE = "Recipe"
-    SOP = "Sop"
+    SOP = "SOP"
     INCIDENT_REPORT = "Incident Report"
     ONBOARDING = "Onboarding"
 
