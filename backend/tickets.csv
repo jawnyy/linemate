@@ -1,0 +1,15 @@
+id,title,priority,status,assignee_id,related_document_id,created_at
+1,Grill flat-top igniter failing intermittently,High,Open,1,doc_001,2026-09-01
+2,Walk-in cooler compressor running warm,Critical,Open,9,doc_002,2026-09-10
+3,Piping bags shortage for pastry station,Medium,Open,4,doc_003,2026-09-05
+4,Whetstone station missing sharpening stone,Low,Resolved,2,doc_004,2026-08-12
+5,Grease trap overflowing ahead of schedule,Critical,Open,5,doc_005,2026-09-15
+6,New hire missing food safety cert paperwork,Medium,In-Progress,8,doc_006,2026-09-02
+7,Walk-in butter temp inconsistent for lamination,High,Open,3,doc_007,2026-09-12
+8,Allergen color-coded boards missing from grill line,High,Open,1,doc_008,2026-09-14
+9,Wet floor caution sign missing near pass,Medium,Open,7,doc_009,2026-09-08
+10,Line check skipped before dinner service,Low,Closed,6,doc_010,2026-08-20
+11,Grill hood vent needs deep cleaning,High,Open,9,,2026-09-16
+12,Espresso machine leaking at front bar,Medium,In-Progress,8,,2026-09-11
+13,Pastry stand mixer bowl cracked,Critical,Open,4,doc_003,2026-09-17
+14,Prep walk-in shelving unit collapsed,High,Open,10,doc_002,2026-09-18
