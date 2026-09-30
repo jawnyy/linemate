@@ -102,3 +102,19 @@ class StationDocumentOwnership(BaseModel):
 class DocumentOwnershipReport(BaseModel):
     stations: list[StationDocumentOwnership]
     total_documents: int
+
+# --- Ask (Grounded Q&A) ---
+
+class AskRequest(BaseModel):
+    session_id: str
+    question: str
+
+
+class CitationOut(BaseModel):
+    document_id: int
+    title: str
+
+
+class AskResponse(BaseModel):
+    answer: str
+    citations: list[CitationOut]
